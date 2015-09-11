@@ -1,3 +1,2 @@
-# POC
-some angularjs example
-Shubham Chaturvedi
+# Angular Js Examples
+#By :Shubham Chaturvedi
